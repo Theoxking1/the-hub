@@ -61,4 +61,4 @@ There's a built-in on-screen keyboard for search and text, so you never have to 
 ## Feedback
 
 A personal project, in active beta. Bugs, ideas, "it'd be cool if…" — all welcome on the [Issues](https://github.com/Theoxking1/the-hub/issues) page.<img width="1603" height="998" alt="Screenshot 2026-08-05 174633" src="https://github.com/user-attachments/assets/48555cf9-8c72-4f56-84b3-efcfff27d2c2" />
-<img width="1603" height="998" alt="Screenshot 2026-08-05 174633" src="https://github.com/user-attachments/assets/09fde914-6aed-4dce-8f34-d060d3fb81f3" />
+
