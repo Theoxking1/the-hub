@@ -62,3 +62,8 @@ There's a built-in on-screen keyboard for search and text, so you never have to 
 
 A personal project, in active beta. Bugs, ideas, "it'd be cool if…" — all welcome on the [Issues](https://github.com/Theoxking1/the-hub/issues) page.<img width="1603" height="998" alt="Screenshot 2026-08-05 174633" src="https://github.com/user-attachments/assets/48555cf9-8c72-4f56-84b3-efcfff27d2c2" />
 
+## Support
+
+the Hub is free and built in my spare time. If it's useful to you and you'd like to chip in toward development, a coffee is hugely appreciated — but honestly, feedback and ideas mean just as much.
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/theoxking1)
