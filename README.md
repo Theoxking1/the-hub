@@ -42,16 +42,25 @@ The major storefronts are detected automatically; anything else you can add your
 
 Full keyboard **and** controller support — it's built to run from the couch.
 
-| Button | Does |
-| --- | --- |
-| **A** | Open / select |
-| **X** | Launch the game |
-| **Y** | Expand a launcher's list · open a game's menu |
-| **B** | Back |
-| **Start** | Settings |
-| **D-pad / stick** | Move around |
+## Controls
+
+Full keyboard **and** controller support — built for the couch. On-screen prompts match your pad (set it under **Settings → Controller**).
+
+| Action | Xbox | PlayStation | Nintendo |
+|---|---|---|---|
+| Open / select | **A** | **✕** | **B** |
+| Back | **B** | **○** | **A** |
+| Launch game | **X** | **□** | **Y** |
+| Menu / expand a launcher | **Y** | **△** | **X** |
+
+**Start / Options / +** opens Settings · **D-pad or left stick** moves · there's a built-in on-screen keyboard for search.
 
 There's a built-in on-screen keyboard for search and text, so you never have to reach for a mouse.
+
+## Platforms
+
+- ✅ **Windows 10 / 11** — available now
+- 🔜 **Linux** and **macOS** — planned, to follow
 
 ## Requirements
 
