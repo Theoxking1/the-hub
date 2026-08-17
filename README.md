@@ -26,7 +26,7 @@ Windows SmartScreen may warn ("unknown publisher") since the app isn't code-sign
 - 📄 **Real game pages** — cover art, your playtime, "how long to beat," and one-click launch.
 - 🛒 **Browse stores in-app** — Steam, Epic, GOG and the rest, without leaving the Hub.
 - 🎨 **Make it yours** — custom colour themes and backgrounds.
-- 💾 **Save-file backup** — keep your saves safe.
+- 💾 **Save-file backup** — keep your retro saves safe.
 - 🟣 **Discord presence** — show off what you're playing.
 - 🔄 **Updates itself** — new fixes install quietly in the background.
 
